@@ -1,0 +1,9 @@
+D:\Belajar\Visual Studio 2010\Program Tes buta warna\Tes Ishihara\Tes Ishihara\bin\Debug\Tes Ishihara.exe
+D:\Belajar\Visual Studio 2010\Program Tes buta warna\Tes Ishihara\Tes Ishihara\bin\Debug\Tes Ishihara.pdb
+D:\Belajar\Visual Studio 2010\Program Tes buta warna\Tes Ishihara\Tes Ishihara\bin\Debug\Tes Ishihara.xml
+D:\Belajar\Visual Studio 2010\Program Tes buta warna\Tes Ishihara\Tes Ishihara\obj\x86\Debug\Tes_Ishihara.Form1.resources
+D:\Belajar\Visual Studio 2010\Program Tes buta warna\Tes Ishihara\Tes Ishihara\obj\x86\Debug\Tes_Ishihara.Resources.resources
+D:\Belajar\Visual Studio 2010\Program Tes buta warna\Tes Ishihara\Tes Ishihara\obj\x86\Debug\Tes Ishihara.vbproj.GenerateResource.Cache
+D:\Belajar\Visual Studio 2010\Program Tes buta warna\Tes Ishihara\Tes Ishihara\obj\x86\Debug\Tes Ishihara.exe
+D:\Belajar\Visual Studio 2010\Program Tes buta warna\Tes Ishihara\Tes Ishihara\obj\x86\Debug\Tes Ishihara.xml
+D:\Belajar\Visual Studio 2010\Program Tes buta warna\Tes Ishihara\Tes Ishihara\obj\x86\Debug\Tes Ishihara.pdb
